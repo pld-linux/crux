@@ -5,7 +5,7 @@ Summary:	Crux theme for GTK+2 and Gnome2
 Summary(pl):	Motyw crux dla GTK+2 i ¶rodowiska Gnome2
 Name:		crux-theme
 Version:	1.9.5
-Release:	1
+Release:	2
 License:	GPL
 Group:		Themes
 Source0:	http://ftp.gnome.org/pub/gnome/sources/%{_name}/1.9/%{_name}-%{version}.tar.bz2
