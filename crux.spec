@@ -20,7 +20,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 The Crux theme (both a GTK2 engine and an icon theme).
 
 %description -l pl
-Motyw crux (tematy dla GTK2 i zestaw ikon).
+Motyw crux (motywy dla GTK2 i zestaw ikon).
 
 %package -n %{_name}-engine
 Summary:	Crux theme engine
