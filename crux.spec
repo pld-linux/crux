@@ -9,6 +9,7 @@ Release:	1
 License:	GPL
 Group:		Themes
 Source0:	http://ftp.gnome.org/pub/gnome/sources/%{_name}/1.9/%{_name}-%{version}.tar.bz2
+# Source0-md5:	661285363026dcc79354c8804eb2cb1d
 URL:		http://www.gnome.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
