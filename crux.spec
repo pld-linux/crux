@@ -1,8 +1,8 @@
 
 %define		_name		crux
 
-Summary:	Crux theme for GTK+2 and Gnome2
-Summary(pl):	Motyw crux dla GTK+2 i ¶rodowiska Gnome2
+Summary:	Crux theme for GTK+2 and GNOME2
+Summary(pl):	Motyw crux dla GTK+2 i ¶rodowiska GNOME2
 Name:		crux-theme
 Version:	1.9.5
 Release:	2
