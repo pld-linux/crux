@@ -1,5 +1,5 @@
 Summary:	Crux theme for GTK+2 and GNOME2
-Summary(pl.UTF-8):   Motyw Crux dla GTK+2 i środowiska GNOME2
+Summary(pl.UTF-8):	Motyw Crux dla GTK+2 i środowiska GNOME2
 Name:		crux
 Version:	1.9.5
 Release:	2
@@ -18,7 +18,7 @@ Motyw Crux (motywy dla GTK2 i zestaw ikon).
 
 %package theme
 Summary:	Crux theme for GTK+2 and GNOME2
-Summary(pl.UTF-8):   Motyw Crux dla GTK+2 i środowiska GNOME2
+Summary(pl.UTF-8):	Motyw Crux dla GTK+2 i środowiska GNOME2
 Group:		Themes
 Requires:	%{name}-icons = %{version}-%{release}
 Requires:	%{name}-engine = %{version}-%{release}
@@ -31,7 +31,7 @@ Motyw Crux (motywy dla GTK2 i zestaw ikon).
 
 %package engine
 Summary:	Crux theme engine
-Summary(pl.UTF-8):   Silnik motywu Crux
+Summary(pl.UTF-8):	Silnik motywu Crux
 Group:		Themes
 
 %description engine
@@ -42,7 +42,7 @@ Silnik motywu Crux.
 
 %package icons
 Summary:	Icons for Crux theme
-Summary(pl.UTF-8):   Ikony dla motywu Crux
+Summary(pl.UTF-8):	Ikony dla motywu Crux
 Group:		Themes
 
 %description icons
